@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **self-portfolio projects**
 
-- 🌱 I’m currently learning **Full-stack development using Python HTML, CSS and JS**
+- 🌱 I’m currently learning **Full-stack development using Python, HTML, CSS and JS**
 
 - 👯 I’m looking to collaborate on **python problems and solutions**
 
