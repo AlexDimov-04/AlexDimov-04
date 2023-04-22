@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **self-portfolio projects**
 
-- 🌱 I’m currently learning **Full-stack development using Python and JS**
+- 🌱 I’m currently learning **Full-stack development using Python HTML, CSS and JS**
 
 - 👯 I’m looking to collaborate on **python problems and solutions**
 
-- 🤝 I’m looking for help with **Flutter and Dart development!**
+- 🤝 I’m looking for help with **Django framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlexDimov-04](https://github.com/AlexDimov-04)
 
