@@ -33,11 +33,14 @@
 </p>
 
 <br>
-<br>
 
-<h3 align="left">📜Certificates</h3>
+<h3 align="left">📜Certificates:</h3>
 
 <img src="https://user-images.githubusercontent.com/106152399/233798921-f40b20b3-6ebb-48dd-af0f-4036028f6d45.jpeg" width="350" height="500">
+<img src="https://user-images.githubusercontent.com/106152399/233799275-df50f8e8-d75a-43e0-a702-a2ee90cd1105.jpeg" width="350" height="500">
+<img src="https://user-images.githubusercontent.com/106152399/233799325-a5385bbb-6745-492f-99e8-ffb3408b5fc2.jpeg" width="350" height="500">
+<img src="https://user-images.githubusercontent.com/106152399/233799371-9cc3c619-5363-4e8b-9d12-18e48c6813a6.jpeg" width="350" height="500">
+<img src="https://user-images.githubusercontent.com/106152399/233799414-49a4a3c3-68ed-405a-9e33-6b611d4cff0d.jpeg" width="350" height="500">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
