@@ -24,6 +24,8 @@
 - 📄 Know about my experiences [https://github.com/AlexDimov-04](https://github.com/AlexDimov-04)
 
 - ⚡ Fun fact **I prefer going to nightclubs🥂, rather than sitting home all day!**
+  
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,6 +33,8 @@
 <a href="https://instagram.com/dimanou_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dimanou_" height="30" width="40" /></a>
 <a href="https://discord.gg/delimanou_#3649" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="delimanou_#3649" height="30" width="40" /></a>
 </p>
+
+---
 
 <br>
 
