@@ -37,12 +37,12 @@
 <h3 align="left">📜Certificates:</h3>
 
 <div style="display: flex">
-  <img src="https://user-images.githubusercontent.com/106152399/233798921-f40b20b3-6ebb-48dd-af0f-4036028f6d45.jpeg" width="250" height="500">
-  <img src="https://user-images.githubusercontent.com/106152399/233799275-df50f8e8-d75a-43e0-a702-a2ee90cd1105.jpeg" width="250" height="500">
-  <img src="https://user-images.githubusercontent.com/106152399/233799325-a5385bbb-6745-492f-99e8-ffb3408b5fc2.jpeg" width="250" height="500">
-  <img src="https://user-images.githubusercontent.com/106152399/233799371-9cc3c619-5363-4e8b-9d12-18e48c6813a6.jpeg" width="250" height="500">
-  <img src="https://user-images.githubusercontent.com/106152399/233799414-49a4a3c3-68ed-405a-9e33-6b611d4cff0d.jpeg" width="250" height="500">
-  <img src="https://user-images.githubusercontent.com/106152399/234340576-bcec0467-6542-4492-a351-181b4c400edf.jpeg" width="250" height="500">
+  <img src="https://user-images.githubusercontent.com/106152399/233798921-f40b20b3-6ebb-48dd-af0f-4036028f6d45.jpeg" width="250" height="350">
+  <img src="https://user-images.githubusercontent.com/106152399/233799275-df50f8e8-d75a-43e0-a702-a2ee90cd1105.jpeg" width="250" height="350">
+  <img src="https://user-images.githubusercontent.com/106152399/233799325-a5385bbb-6745-492f-99e8-ffb3408b5fc2.jpeg" width="250" height="350">
+  <img src="https://user-images.githubusercontent.com/106152399/233799371-9cc3c619-5363-4e8b-9d12-18e48c6813a6.jpeg" width="250" height="350">
+  <img src="https://user-images.githubusercontent.com/106152399/233799414-49a4a3c3-68ed-405a-9e33-6b611d4cff0d.jpeg" width="250" height="350">
+  <img src="https://user-images.githubusercontent.com/106152399/234340576-bcec0467-6542-4492-a351-181b4c400edf.jpeg" width="250" height="350">
 </div>
 
 ---
