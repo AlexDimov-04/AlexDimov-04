@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **alex.lemuel@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/AlexDimov-04](https://github.com/AlexDimov-04)
+- 📄 Know about my experiences [LinkEdin](https://www.linkedin.com/in/aleksandar-dimov-8a0470273/)
 
-- ⚡ Fun fact **I love speaking and expressing my opinion in front of a lot of people and especially on stage🎤**
+- ⚡ Fun fact **I absolutely love speaking my mind and sharing my opinions on important global issues in front of large audiences, especially when I get to do it on stage🎤**
   
 ---
 
