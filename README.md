@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, My name is Alexander! 👋</h1>
+ <h1 align="center">Hello there, My name is Alexander! 👋</h1>
 <h3 align="center">I am passionate Pythonista👓 who is currently studying Python with Django framework, HMTL, CSS and JavaScript!</h3>
 <img align= "right" alt="Coding" width="400" src="https://www.fouragain.com/wp-content/uploads/2020/03/data-entr.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexdimov-04&label=Profile%20views&color=0e75b6&style=flat" alt="alexdimov-04" /> </p>
