@@ -1,25 +1,25 @@
  <h1 align="center">Hello there, My name is Alexander! 👋</h1>
-<h3 align="center">I am passionate Pythonista👓 who is currently studying Python with Django framework, HMTL, CSS and JavaScript!</h3>
+<h3 align="center">I am passionate Pythonista👓 who is currently interested in Python, Django Framework/Django REST Framework, HMTL, CSS and JavaScript!</h3>
 <img align= "right" alt="Coding" width="400" src="https://www.fouragain.com/wp-content/uploads/2020/03/data-entr.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexdimov-04&label=Profile%20views&color=0e75b6&style=flat" alt="alexdimov-04" /> </p>
 
-- 🔭 I’m currently working on **self-portfolio projects**
+- 🔭 I’m currently working on **Personal Projects**
 
 - 🌱 I’m currently learning **Full-stack development using Python, HTML, CSS and JS**
 
-- 👯 I’m looking to collaborate on **python problems and solutions**
+- 👯 I’m looking to collaborate on **Python problems and solutions**
 
-- 🤝 I’m looking for help with **Django framework**
+- 🤝 I’m looking for help with **Django REST Framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AlexDimov-04](https://github.com/AlexDimov-04)
+- 👨‍💻 All of my projects are available [here.](https://github.com/AlexDimov-04?tab=repositories)
 
-- 📝 I regularly read articles on [https://softuni.bg/blog](https://softuni.bg/blog)
+- 📝 I regularly read articles on [softuni blog.](https://softuni.bg/blog)
 
 - 💬 Ask me about **frameworks, coding problems, solutions or anything at all!**
 
 - 📫 How to reach me **alex.lemuel@gmail.com**
 
-- 📄 Know about my experiences [LinkEdin](https://www.linkedin.com/in/aleksandar-dimov-8a0470273/)
+- 📄 Know about my experiences at [linkedin.](https://www.linkedin.com/in/aleksandar-dimov-8a0470273/)
 
 - ⚡ Fun fact **I absolutely love speaking my mind and sharing my opinions on important global issues in front of large audiences, especially when I get to do it on stage🎤**
   
@@ -43,37 +43,18 @@
   <img src="https://user-images.githubusercontent.com/106152399/233799371-9cc3c619-5363-4e8b-9d12-18e48c6813a6.jpeg" width="350" height="500">
   <img src="https://user-images.githubusercontent.com/106152399/233799414-49a4a3c3-68ed-405a-9e33-6b611d4cff0d.jpeg" width="350" height="500">
   <img src="https://user-images.githubusercontent.com/106152399/234340576-bcec0467-6542-4492-a351-181b4c400edf.jpeg" width="350" height="500">
+  <img src="https://github.com/AlexDimov-04/Property-Rental-Marketplace---RentWise/assets/106152399/020436fa-be87-4029-86fc-a8dc6b6b7256" width="350" height="500">
+  <img src="https://github.com/AlexDimov-04/Property-Rental-Marketplace---RentWise/assets/106152399/d23c32f2-aca8-4655-969d-a63a3f44932c" width="350" height="500">
+  <img src="https://github.com/AlexDimov-04/Property-Rental-Marketplace---RentWise/assets/106152399/78dc368d-9ea2-4cd6-b57e-71e9f76de0b0" width="350" height="500">
 </div>
 
 ---
 
 <h3 align="left">🖥️ Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/AlexDimov-04/Software-Engineering-SoftUni/assets/106152399/6d45f54f-6778-4351-901a-ed91a0ea2bc8" alt="python" width="40" height="40"/> 
-  </a>
+ <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexdimov-04&show_icons=true&locale=en&layout=compact" alt="alexdimov-04" /></p>
 
